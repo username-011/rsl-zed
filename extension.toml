@@ -1,0 +1,7 @@
+id = "scize"
+name = "Scize"
+version = "0.0.1"
+schema_version = 1
+authors = ["username-11"]
+description = ""
+repository = "https://github.com/your-name/my-zed-extension"
