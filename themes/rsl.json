@@ -253,12 +253,12 @@
             "font_weight": null
           },
           "link_text": {
-            "color": "#FF00FFFF",
+            "color": "#DBDBDBFF",
             "font_style": "italic",
             "font_weight": null
           },
           "link_uri": {
-            "color": "#FF00FFFF",
+            "color": "#DBDBDBFF",
             "font_style": null,
             "font_weight": null
           },
@@ -368,7 +368,7 @@
             "font_weight": 700
           },
           "text.literal": {
-            "color": "#FF0000FF",
+            "color": "#bfbdb6FF",
             "font_style": null,
             "font_weight": null
           },
